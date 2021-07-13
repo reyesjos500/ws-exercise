@@ -1,0 +1,678 @@
+[
+  {
+    "name": "aed",
+    "value": 4.360581
+  },
+  {
+    "name": "afn",
+    "value": 96.988923
+  },
+  {
+    "name": "all",
+    "value": 122.578118
+  },
+  {
+    "name": "amd",
+    "value": 590.639899
+  },
+  {
+    "name": "ang",
+    "value": 2.127399
+  },
+  {
+    "name": "aoa",
+    "value": 763.515054
+  },
+  {
+    "name": "ars",
+    "value": 113.796419
+  },
+  {
+    "name": "aud",
+    "value": 1.58549
+  },
+  {
+    "name": "awg",
+    "value": 2.137549
+  },
+  {
+    "name": "azn",
+    "value": 2.018235
+  },
+  {
+    "name": "bam",
+    "value": 1.955002
+  },
+  {
+    "name": "bbd",
+    "value": 2.392987
+  },
+  {
+    "name": "bch",
+    "value": 0.002383
+  },
+  {
+    "name": "bdt",
+    "value": 100.451064
+  },
+  {
+    "name": "bgn",
+    "value": 1.956571
+  },
+  {
+    "name": "bhd",
+    "value": 0.446811
+  },
+  {
+    "name": "bif",
+    "value": 2347.276569
+  },
+  {
+    "name": "bmd",
+    "value": 1.187197
+  },
+  {
+    "name": "bnd",
+    "value": 1.602821
+  },
+  {
+    "name": "bob",
+    "value": 8.183734
+  },
+  {
+    "name": "brl",
+    "value": 6.170695
+  },
+  {
+    "name": "bsd",
+    "value": 1.185198
+  },
+  {
+    "name": "btc",
+    "value": 0.000035
+  },
+  {
+    "name": "btn",
+    "value": 88.368375
+  },
+  {
+    "name": "bwp",
+    "value": 12.938919
+  },
+  {
+    "name": "byn",
+    "value": 3.04721
+  },
+  {
+    "name": "bzd",
+    "value": 2.388989
+  },
+  {
+    "name": "cad",
+    "value": 1.478167
+  },
+  {
+    "name": "cdf",
+    "value": 2378.54972
+  },
+  {
+    "name": "chf",
+    "value": 1.085217
+  },
+  {
+    "name": "clf",
+    "value": 0.029891
+  },
+  {
+    "name": "clp",
+    "value": 888.913952
+  },
+  {
+    "name": "cnh",
+    "value": 7.69178
+  },
+  {
+    "name": "cny",
+    "value": 7.691851
+  },
+  {
+    "name": "cop",
+    "value": 4548.152721
+  },
+  {
+    "name": "crc",
+    "value": 735.908325
+  },
+  {
+    "name": "cup",
+    "value": 28.444653
+  },
+  {
+    "name": "cve",
+    "value": 110.218326
+  },
+  {
+    "name": "czk",
+    "value": 25.748053
+  },
+  {
+    "name": "djf",
+    "value": 210.990597
+  },
+  {
+    "name": "dkk",
+    "value": 7.437019
+  },
+  {
+    "name": "dop",
+    "value": 67.544401
+  },
+  {
+    "name": "dzd",
+    "value": 159.598134
+  },
+  {
+    "name": "ecs",
+    "value": 0.999739
+  },
+  {
+    "name": "eek",
+    "value": 0.999858
+  },
+  {
+    "name": "egp",
+    "value": 18.601482
+  },
+  {
+    "name": "ern",
+    "value": 0.999858
+  },
+  {
+    "name": "etb",
+    "value": 52.100033
+  },
+  {
+    "name": "eth",
+    "value": 0.000555
+  },
+  {
+    "name": "eur",
+    "value": 1
+  },
+  {
+    "name": "fjd",
+    "value": 2.468302
+  },
+  {
+    "name": "gbp",
+    "value": 0.854159
+  },
+  {
+    "name": "gel",
+    "value": 3.721863
+  },
+  {
+    "name": "ghs",
+    "value": 7.028223
+  },
+  {
+    "name": "gip",
+    "value": 0.85407
+  },
+  {
+    "name": "gmd",
+    "value": 60.66578
+  },
+  {
+    "name": "gnf",
+    "value": 11635.073369
+  },
+  {
+    "name": "gqe",
+    "value": 655.679314
+  },
+  {
+    "name": "gtq",
+    "value": 9.18521
+  },
+  {
+    "name": "gyd",
+    "value": 247.965025
+  },
+  {
+    "name": "hkd",
+    "value": 9.221614
+  },
+  {
+    "name": "hnl",
+    "value": 28.200055
+  },
+  {
+    "name": "hrk",
+    "value": 7.491215
+  },
+  {
+    "name": "htg",
+    "value": 112.272462
+  },
+  {
+    "name": "huf",
+    "value": 355.01947
+  },
+  {
+    "name": "idr",
+    "value": 17247.601862
+  },
+  {
+    "name": "ils",
+    "value": 3.895135
+  },
+  {
+    "name": "inr",
+    "value": 88.435333
+  },
+  {
+    "name": "iqd",
+    "value": 1729.19793
+  },
+  {
+    "name": "irr",
+    "value": 49986.94083
+  },
+  {
+    "name": "isk",
+    "value": 146.298319
+  },
+  {
+    "name": "jmd",
+    "value": 180.273649
+  },
+  {
+    "name": "jod",
+    "value": 0.841723
+  },
+  {
+    "name": "jpy",
+    "value": 130.860599
+  },
+  {
+    "name": "kes",
+    "value": 127.944249
+  },
+  {
+    "name": "kgs",
+    "value": 100.578877
+  },
+  {
+    "name": "khr",
+    "value": 4827.255675
+  },
+  {
+    "name": "kmf",
+    "value": 492.835265
+  },
+  {
+    "name": "kpw",
+    "value": 4.697502
+  },
+  {
+    "name": "krw",
+    "value": 1359.697027
+  },
+  {
+    "name": "kwd",
+    "value": 0.357358
+  },
+  {
+    "name": "kyd",
+    "value": 0.987682
+  },
+  {
+    "name": "kzt",
+    "value": 508.084813
+  },
+  {
+    "name": "lak",
+    "value": 11249.836167
+  },
+  {
+    "name": "lbp",
+    "value": 1792.04103
+  },
+  {
+    "name": "lkr",
+    "value": 236.090559
+  },
+  {
+    "name": "lrd",
+    "value": 203.663691
+  },
+  {
+    "name": "lsl",
+    "value": 16.941305
+  },
+  {
+    "name": "ltc",
+    "value": 0.008835
+  },
+  {
+    "name": "lyd",
+    "value": 5.358531
+  },
+  {
+    "name": "mad",
+    "value": 10.57882
+  },
+  {
+    "name": "mdl",
+    "value": 21.422334
+  },
+  {
+    "name": "mga",
+    "value": 4548.703581
+  },
+  {
+    "name": "mkd",
+    "value": 61.588921
+  },
+  {
+    "name": "mmk",
+    "value": 1950.827476
+  },
+  {
+    "name": "mnt",
+    "value": 3340.773103
+  },
+  {
+    "name": "mop",
+    "value": 9.482285
+  },
+  {
+    "name": "mru",
+    "value": 42.893437
+  },
+  {
+    "name": "mur",
+    "value": 50.455884
+  },
+  {
+    "name": "mvr",
+    "value": 18.282838
+  },
+  {
+    "name": "mwk",
+    "value": 959.45567
+  },
+  {
+    "name": "mxn",
+    "value": 23.606183
+  },
+  {
+    "name": "myr",
+    "value": 4.97495
+  },
+  {
+    "name": "mzm",
+    "value": 75.434514
+  },
+  {
+    "name": "mzn",
+    "value": 74.68658
+  },
+  {
+    "name": "nad",
+    "value": 16.941305
+  },
+  {
+    "name": "ngn",
+    "value": 488.531674
+  },
+  {
+    "name": "nio",
+    "value": 41.392476
+  },
+  {
+    "name": "nok",
+    "value": 10.307425
+  },
+  {
+    "name": "npr",
+    "value": 141.38914
+  },
+  {
+    "name": "nzd",
+    "value": 1.695656
+  },
+  {
+    "name": "omr",
+    "value": 0.457107
+  },
+  {
+    "name": "pab",
+    "value": 1.185198
+  },
+  {
+    "name": "pen",
+    "value": 4.692912
+  },
+  {
+    "name": "pgk",
+    "value": 4.161437
+  },
+  {
+    "name": "php",
+    "value": 59.406164
+  },
+  {
+    "name": "pkr",
+    "value": 189.156853
+  },
+  {
+    "name": "pln",
+    "value": 4.546372
+  },
+  {
+    "name": "pyg",
+    "value": 8049.791053
+  },
+  {
+    "name": "qar",
+    "value": 4.322585
+  },
+  {
+    "name": "ron",
+    "value": 4.926038
+  },
+  {
+    "name": "rsd",
+    "value": 117.535224
+  },
+  {
+    "name": "rub",
+    "value": 88.189762
+  },
+  {
+    "name": "rwf",
+    "value": 1192.82458
+  },
+  {
+    "name": "sar",
+    "value": 4.453118
+  },
+  {
+    "name": "sbd",
+    "value": 9.539591
+  },
+  {
+    "name": "scr",
+    "value": 15.997911
+  },
+  {
+    "name": "sdg",
+    "value": 534.238769
+  },
+  {
+    "name": "sek",
+    "value": 10.188646
+  },
+  {
+    "name": "sgd",
+    "value": 1.603868
+  },
+  {
+    "name": "shp",
+    "value": 0.856444
+  },
+  {
+    "name": "sll",
+    "value": 12174.707949
+  },
+  {
+    "name": "sos",
+    "value": 694.5104
+  },
+  {
+    "name": "srd",
+    "value": 24.943608
+  },
+  {
+    "name": "ssp",
+    "value": 0.856444
+  },
+  {
+    "name": "std",
+    "value": 532.04744
+  },
+  {
+    "name": "stn",
+    "value": 27305.537088
+  },
+  {
+    "name": "svc",
+    "value": 10.370609
+  },
+  {
+    "name": "syp",
+    "value": 2981.052332
+  },
+  {
+    "name": "szl",
+    "value": 16.922737
+  },
+  {
+    "name": "thb",
+    "value": 38.607655
+  },
+  {
+    "name": "tjs",
+    "value": 13.517179
+  },
+  {
+    "name": "tmt",
+    "value": 4.167062
+  },
+  {
+    "name": "tnd",
+    "value": 3.293879
+  },
+  {
+    "name": "top",
+    "value": 2.68265
+  },
+  {
+    "name": "try",
+    "value": 10.28006
+  },
+  {
+    "name": "ttd",
+    "value": 8.05329
+  },
+  {
+    "name": "twd",
+    "value": 33.201159
+  },
+  {
+    "name": "tzs",
+    "value": 2748.466141
+  },
+  {
+    "name": "uah",
+    "value": 32.393876
+  },
+  {
+    "name": "ugx",
+    "value": 4201.5208
+  },
+  {
+    "name": "usd",
+    "value": 1.187197
+  },
+  {
+    "name": "uyu",
+    "value": 14.209047
+  },
+  {
+    "name": "uzs",
+    "value": 3427.307331
+  },
+  {
+    "name": "vef",
+    "value": 3866228.986608
+  },
+  {
+    "name": "ves",
+    "value": 3879446.737582
+  },
+  {
+    "name": "vnd",
+    "value": 7422.383769
+  },
+  {
+    "name": "vuv",
+    "value": 129.380758
+  },
+  {
+    "name": "wst",
+    "value": 0.999739
+  },
+  {
+    "name": "xaf",
+    "value": 652.958496
+  },
+  {
+    "name": "xag",
+    "value": 0.999739
+  },
+  {
+    "name": "xcd",
+    "value": 3.20846
+  },
+  {
+    "name": "xof",
+    "value": 178.51304
+  },
+  {
+    "name": "xpd",
+    "value": 119.111502
+  },
+  {
+    "name": "xpf",
+    "value": 119.966284
+  },
+  {
+    "name": "xpt",
+    "value": 0.999858
+  },
+  {
+    "name": "yer",
+    "value": 80.918709
+  },
+  {
+    "name": "zar",
+    "value": 16.935488
+  },
+  {
+    "name": "zmw",
+    "value": 7.313474
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "testType":"Positive",
+        "currency":"jpy",
+        "status":200
+    },
+    {
+        "testType":"Negative",
+        "currency":"xyz",
+        "status":403
+    },
+    {
+        "testType":"Positive",
+        "currency":"usd",
+        "status":200
+    }
+]
