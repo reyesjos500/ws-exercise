@@ -2,7 +2,7 @@
 Hands-on exercise to test API
 
 # System requirements
-OS: Mac or Linux 
+OS: Mac or Linux\
 Runtime environment: Node.js
 
 # Install
